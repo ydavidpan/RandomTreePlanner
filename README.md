@@ -1,6 +1,6 @@
 # RandomTreePlanner
 
-# robotic project
+## robotic project
 
 The Random Tree algorithm is a simple sampling-based method that grows a tree in the configuration space of the robot. The algorithm is loosely based on a random walk of the configuration space and operates using the following strategy:
 
