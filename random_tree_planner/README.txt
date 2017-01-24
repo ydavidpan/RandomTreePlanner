@@ -1,4 +1,4 @@
-This code is distributed as part of the hands-on demonstration in class for Thursday 9/20/2016.  This readme includes instructions on how to setup the included code in preparation for the hands-on lecture.  Your code from project 2 is necessary to make it work.
+This readme includes instructions on how to setup the included code in preparation for the hands-on lecture.
 
 If you are using the VM distributed for the class then all of the following should get the code working.  If you are not then you may need to alter the Makefile slightly for it to work on your platform.  The Makefile includes notes where such changes might need to be made.
 
